@@ -1,4 +1,8 @@
 # Series-1B-Ketoximes
+
+<img src ="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=55790&t=l"> </img>
+
+
 The horticultural fungicide pyrifenox was tested against eumycetoma causing fungi as part of the same screen that marked fenarimol as a possible antifungal drug lead
 
 This project aims to produce optimized analogues of pyrifenox for possible use against invasive fungal infections in humans 
