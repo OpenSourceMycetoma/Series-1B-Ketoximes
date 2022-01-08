@@ -1,4 +1,4 @@
-# Series-1B-Ketoximes
+# Series-6-Ketoximes
 
 <img src ="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=55790&t=l"> </img>
 
