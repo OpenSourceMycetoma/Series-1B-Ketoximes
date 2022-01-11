@@ -7,7 +7,7 @@ The horticultural fungicide pyrifenox was tested against eumycetoma causing fung
 
 This project aims to produce optimized analogues of pyrifenox for possible use against invasive fungal infections in humans 
 
-Pyrifenox and fenarimol share the same enzymatic target as posaconazole and itraconazole‡ - the current gold standard drugs for eumycetoma treatment 
+Pyrifenox and fenarimol share the same enzymatic target (CYP51F) as posaconazole and itraconazole‡ - the current gold standard drugs for eumycetoma treatment 
 
 ‡ as per the Fungicide Resistance Action Committee
 
