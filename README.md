@@ -12,5 +12,4 @@ Pyrifenox and fenarimol share the same enzymatic target as posaconazole and itra
 ‡ as per the Fungicide Resistance Action Committee
 
 
-Compounds are currently being made by Dmitrij Melechov at UCL
-[You can click here to see his ELN](https://tinyurl.com/MycetosDmitrij)
+Compounds are currently being made by Dmitrij Melechov at UCL - [You can click here to see his ELN](https://tinyurl.com/MycetosDmitrij)
